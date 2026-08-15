@@ -1,66 +1,34 @@
-<!--
-  ╔══════════════════════════════════════════════╗
-  ║  Hi, I'm Klim. RE / security research.      ║
-  ║  CachyOS + Hyprland, Python, exploit dev.   ║
-  ╚══════════════════════════════════════════════╝
--->
+# Hi 👋, I'm Klim
 
-<h1 align="center">⎋ Klim · 0x6B6C696D</h1>
+### vibecoder
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=RE+%2F+malware+analyst;exploit+developer;game+hacking;low-level+enjoyer" alt="Typing SVG" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepy090&label=Profile views&color=0e75b6&style=flat" alt="sleepy090" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=profile+views&color=00FF9D&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=follow&style=social" alt="followers" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepy090" alt="sleepy090" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/sleepy42br" target="blank"><img src="https://img.shields.io/twitter/follow/sleepy42br?logo=twitter&style=for-the-badge" alt="sleepy42br" /></a> </p>
 
-### ⚙️ Stack & tools
+- 🌱 I'm currently learning **Python **
 
+- 👯 I'm looking to collaborate on **Open Source**
+
+- 📫 How to reach me **klimcerdancev87@gmail.com**
+
+- 📝 I regularly write articles on **[https://t.me/sleepy9091](https://t.me/sleepy9091)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ghidra-FF6600?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-1A1A1A?style=for-the-badge&logo=hex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windbg-007ACC?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDB-FF6600?style=for-the-badge&logo=gdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-00FF9D?style=for-the-badge&logo=hyprland&logoColor=black" />
+<a href="https://github.com/sleepy090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sleepy090" height="30" width="40" /></a>
+<a href="https://twitter.com/sleepy42br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepy42br" height="30" width="40" /></a>
+<a href="https://youtube.com/Sleepwalker5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sleepwalker5" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a></p>
 
-### 📊 Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepy090&show_icons=true&locale=en&layout=compact" alt="sleepy090" /></p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=c9d1d9" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&hide_border=true&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleepy090&show_icons=true&locale=en" alt="sleepy090" /></p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00FF9D&text_color=c9d1d9" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=4&margin-w=20&margin-h=20" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepy090&" alt="sleepy090" /></p>
 
----
-
-### 🔍 Current focus
-
-- Reversing malware samples (PE/ELF)
-- Exploit dev for Linux kernel (ctf / research)
-- Game hacking internals (CS2, Fallout)
-- Tooling in Python / C for automation
-
----
-
-<p align="center">
-  <i>“Everything is bytes until proven otherwise.”</i>
-</p>
